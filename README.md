@@ -9,9 +9,9 @@ I have studied Java for 7 months and want to do my degree in Information Systems
 **My favorite language is _Java_ ☕**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeRizzatto&theme=holi&show_icons=true&border_radius=0&hide_title=true&line_height=30&text_bold=false&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeRizzatto&theme=transparent&show_icons=true&border_radius=0&hide_title=true&line_height=30&text_bold=false&hide_border=true&icon_color=2F81F7&text_color=4078c0&ring_color=2A6BBF)
 
 ## **Projects worth to look:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRizzatto&repo=SpringBoot-Jpa-Gym&theme=holi&border_radius=0)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRizzatto&repo=Sudoku-Java&theme=holi&border_radius=0)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRizzatto&repo=SpringBoot-Jpa-Gym&theme=transparent&border_radius=0&hide_border=true&icon_color=6e5494&text_color=6e5494&ring_color=6e5494&title_color=6e5494)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeRizzatto&repo=Sudoku-Java&theme=transparent&border_radius=0&hide_border=true&icon_color=6e5494&text_color=6e5494&ring_color=6e5494&title_color=6e5494)](https://github.com/anuraghazra/github-readme-stats)
