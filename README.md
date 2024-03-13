@@ -6,6 +6,8 @@
 
 I have studied Java for 7 months and want to do my degree in Software Engineering in Brazil. My dream is to live in Canada or European countries like the Netherlands, England, Germany, etc...<br>
 
+**Contact me: guilherme.m.rizzatto@gmail.com**
+
 **My favorite language is _Java_ ☕**
 
 
