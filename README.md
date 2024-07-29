@@ -4,11 +4,24 @@
 
 **I love IT and programming**<br>
 
-I have studied Java for 7 months and want to do my degree in Software Engineering in Brazil. My dream is to live in Canada or European countries like the Netherlands, England, Germany, etc...<br>
+💼​ I'm a Software Developer for L&H TEC in Brazil 💼​ <br> 
+
+🎓​ Software Engineering Bachelor Degree -> 1/7 semesters 🎓​ <br>
+<br>
+=============================================================== <br>
+My Stacks : <br>
+
+Java  <br>
+Spring Boot  <br>
+Jpa / Jdbc  <br>
+JavaScript  <br>
+React  <br>
+
+<br>
+<br>
 
 **Contact me: guilherme.m.rizzatto@gmail.com**
 
-**My favorite language is _Java_ ☕**
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeRizzatto&theme=transparent&show_icons=true&border_radius=0&hide_title=true&line_height=30&text_bold=false&hide_border=true&icon_color=2F81F7&text_color=4078c0&ring_color=2F81F7)
