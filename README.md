@@ -6,7 +6,7 @@
 
 💼​ I'm a Software Developer for L&H TEC in Brazil 💼​ <br> 
 
-🎓​ Software Engineering Bachelor Degree -> 2/7 semesters 🎓​ <br>
+🎓​ Software Engineering Bachelor Degree -> 4/7 semesters 🎓​ <br>
 <br>
 =============================================================== <br>
 My Stacks : <br>
@@ -14,8 +14,7 @@ My Stacks : <br>
 Java  <br>
 Spring Boot  <br>
 Jpa / Jdbc  <br>
-JavaScript  <br>
-React  <br>
+Angular  <br>
 
 <br>
 <br>
